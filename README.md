@@ -1,4 +1,4 @@
-# AI Agent Evaluation and Safety Test Suite — Demonstration Project
+# AI Agent Evaluation and Safety Test Suite - Demonstration Project
 
 ## Purpose
 A small test suite for evaluating a fraud-analysis assistant's reliability and safety before any real-world use. The suite tests whether a candidate output:
